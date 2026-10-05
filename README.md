@@ -7,3 +7,4 @@ We use GitHub Actions to generate our showcase and upload it to GitHub Sites. To
 
 ## Build template data
  C:\wamp64\bin\php\php8.0.26\php.exe .\build-template-data.php
+ 
