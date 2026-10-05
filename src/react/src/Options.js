@@ -16,7 +16,7 @@ export class Options
             return '/'; 
         } 
         else{
-            return 'https://sn-recit-formation-a-distance.github.io/html-bootstrap-editor-showcase/';
+            return 'https://cssbe-distance-learning.github.io/html-bootstrap-editor-showcase/';
         }
     }
 }
